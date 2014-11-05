@@ -5,12 +5,14 @@
     box-sizing: border-box;
 } 
 
-body{}
+body{ font-family:'Roboto Condensed', sans-serif;}
 
-.text-muted{}
+.col-md-12{color:#80e6cc}
 
-.text-thin{}
+.text-thin{font-weight: 100}
 
 .title-super{font-size: 60px}
 
- .img-center {margin:0 auto;}
+ .img-center{margin:0 auto;}
+
+.title-logo {padding: 20px;}
